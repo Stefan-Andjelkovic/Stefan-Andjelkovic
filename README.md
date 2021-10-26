@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stefan Andjelkovic
+- 👋 Hi, I’m Stefan Andjelkovic, 4th year PhD student in Computational Biology at joint CMU-Pitt program
 - 👀 I’m interested in ML, NLP, Comp Bio
 - 🌱 I’m currently learning all sorts of machine learning technologies applicable to complex global challenges
 - 💞️ I’m looking to collaborate on cancer genomics, COVID-19 pandemic modeling, and other challenges (ecological, social, etc.)
